@@ -4,9 +4,9 @@ This repository will have tutorials on Pandas and will be updated regularly. Als
 
 # Files included:
 
-1. pandas-tutorial-01.py
-2. README.md
-3. LICENSE.md
+* pandas-tutorial-01.py
+* README.md
+* LICENSE.md
 
 # Usage:
 
